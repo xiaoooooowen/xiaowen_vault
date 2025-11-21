@@ -11,5 +11,6 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "/"
 }
