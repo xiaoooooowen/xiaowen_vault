@@ -100,3 +100,6 @@ ICMP报文最重要的两个字段：
 ## 断网可以ping通localhost吗？
 ### 127.0.0.1和localhost以及0.0.0.0有区别吗？
 - localhost默认解析为回环地址
+
+
+测试同步
